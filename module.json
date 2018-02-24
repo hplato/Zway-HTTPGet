@@ -16,7 +16,7 @@
     "maturity": "stable",
     "moduleName": "HTTPGet",
     "singleton": false,
-    "version": 1.0.1,
+    "version": 2,
     "repository": {
         "source": "https://github.com/hplato/Zway-HTTPGet",
         "type": "git"
