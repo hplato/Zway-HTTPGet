@@ -27,16 +27,6 @@
                 "label": "__url_label__",
                 "helper": "__url_helper__",
                 "order": 1
-            },
-            "user": {
-                "label": "__user_label__",
-                "helper": "__user_helper__",
-                "order": 2
-            },
-            "password": {
-                "label": "__password_label__",
-                "helper": "__password_helper__",
-                "order": 3
             }
         }
     },
